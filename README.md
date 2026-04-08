@@ -4,7 +4,7 @@ by Kyle Rose
 ---
 
 ## 📌 Live Demo  
-https://portfolio-kappa-bay-77.vercel.app/  <!-- replace with exact project link if separate -->
+https://github-search-three-beta.vercel.app/
 
 ---
 
